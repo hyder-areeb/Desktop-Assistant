@@ -1,3 +1,9 @@
+//followed tutorial for desktop-assistant
+//Trying to integrate it with a neural network to add more functionality and improve responses
+
+
+
+
 from gtts import gTTS
 import speech_recognition as sr
 import os
